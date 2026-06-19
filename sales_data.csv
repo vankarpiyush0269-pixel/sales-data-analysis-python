@@ -1,0 +1,9 @@
+﻿Order_ID,Product,Category,Sales,Profit,Month
+1,Laptop,Electronics,50000,10000,Jan
+2,Mobile,Electronics,30000,6000,Jan
+3,Chair,Furniture,10000,2500,Feb
+4,Table,Furniture,18000,4000,Feb
+5,Laptop,Electronics,55000,12000,Mar
+6,Mobile,Electronics,35000,7000,Mar
+7,Sofa,Furniture,25000,5000,Apr
+8,Laptop,Electronics,60000,15000,Apr
